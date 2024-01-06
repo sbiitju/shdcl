@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.shahinbashar.qsandroid"
+    namespace = "com.shdclgroup.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.shahinbashar.qsandroid"
+        applicationId = "com.shdclgroup.app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

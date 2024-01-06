@@ -1,4 +1,4 @@
-package com.shahinbashar.qsandroid
+package com.shdclgroup.app
 
 import org.junit.Test
 
