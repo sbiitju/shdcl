@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="paddingSmall">4dp</dimen>
+
+
+    <dimen name="horizontal">8dp</dimen>
+    <dimen name="vertical">8dp</dimen>
+
+
+    <dimen name="column_padding">16dp</dimen>
+
+    <dimen name="item_vertical_padding">8dp</dimen>
+    <dimen name="item_horizontal_padding">16dp</dimen>
+
+    <dimen name="icon_padding">4dp</dimen>
+    <dimen name="icon_size">16dp</dimen>
+</resources>
